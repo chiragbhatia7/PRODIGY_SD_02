@@ -2,7 +2,7 @@
 
 ## Summary
 
-DigitDuel is a simple CLI based number guessing game built with Node.js. Players try to guess a randomly generated number between 1 and 100 within the fewest attempts possible.
+DigitDuel is a simple CLI based number guessing program built with Node.js. Players try to guess a randomly generated number between 1 and 100 within the fewest attempts possible.
 
 ## Packages Used
 
@@ -53,3 +53,14 @@ Refer: https://www.npmjs.com/package/digitduel
 ## Extended Functionality
 
 For extended functionality, including saving player data and displaying the leaderboard, check out the [PRODIGY_SD_02_WEB](https://github.com/chiragbhatia7/PRODIGY_SD_02_WEB) repository.
+
+### Screenshots
+
+#### Development
+![Development](/screenshots/1.png)
+
+#### Output
+![Output](/screenshots/2.png)
+
+#### Npm package (npx digitduel)
+![Npm package](/screenshots/3.png)
